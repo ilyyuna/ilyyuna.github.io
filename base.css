@@ -1,16 +1,46 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400&display=swap');
 body {
-    background-color: #1b1d22;
+    background-color: #fce9ec;
 }
 
 .veryfunny {
-    color: aliceblue;
+    color: #78454f;
     text-align: center;
     font-family: 'Noto Sans', sans-serif;
 }
 .lavamark {
     position: absolute; 
-    color: white; 
+    color: #78454f; 
     font-family: 'Noto Sans', sans-serif;
     left: 90px;
+}
+p {
+    font-family: 'Noto Sans', sans-serif;
+    position: absoulte;
+}
+.justarectangle {
+    background-color: #78454f;
+    width: 300px;
+    height: 100vh;
+    position: absolute;
+    top: 0px;
+    left: 20px;
+    color: white;
+}
+.bakground4somethings{
+    background-color: #fce9ec;
+    position: absolute;
+    color: #78454f;
+}
+.textforbakground {
+    font-family: 'Noto Sans', sans-serif;
+    color: #78454f;
+    padding-left: 10px;
+    margin-top: 4px;
+    position:absolute;
+}
+.textforbakground:hover {
+    color: #fce9ec;
+    background-color: #6c3e47;
+    padding-right: 175px;
 }
